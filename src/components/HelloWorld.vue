@@ -3,7 +3,7 @@
     <div class="title">临时停车，请多关照</div>
     <div class="title-text">---致以真诚的歉意！</div>
 
-    <img class="xin" src="@/assets/xin.jpg" alt />
+    <!--<img class="xin" src="@/assets/xin.jpg" alt />-->
 
     <div class="tel" @click="callPhone">一键电话挪车</div>
 
